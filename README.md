@@ -59,7 +59,7 @@ Etapa 3: Problemas identificados
 una vez finalizado el juego, el juego en si no vuelve al inicio que tenía antes, hay que refrescar la página para volverlo a jugar. En el selector de aspecto a veces no funcionan los botones una vez clickeado "aceptar" dentro de esta escena
 
 ## 4. Conclusiones
-Obviamente trataría de solucionar ese problema haciendo que se reproduzcan las imágenes de nuevo desde el fotograma 0 o algo así. En algún futuro añadiría más diálogos, personajes y minijuegos diferentes o remasterizados para que el juego sea más dinámico 
+Obviamente trataría de solucionar ese problema haciendo que se reproduzcan las imágenes de nuevo desde el fotograma 0 o algo así. Se reproducía donde no era a pesar de que revisé el código de los botones, pero igualemnte no iban bien y llevaban a fotogramas diferentes. Aunque en la preview si funcionan
 
 ## 5 Referencias
 **Artículos y blogs **
